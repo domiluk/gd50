@@ -1,0 +1,13 @@
+{
+    "Lua.diagnostics.globals": [
+        "smallFont",
+        "mediumFont",
+        "love",
+        "sounds",
+        "flappyFont",
+        "hugeFont",
+        "push",
+        "gStateMachine",
+        "muted"
+    ]
+}
